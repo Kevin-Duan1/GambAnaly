@@ -1,0 +1,26 @@
+#' Ghrelin as a predictor of persistent gamblind dataset
+#'
+#' A dataset from a paper analyzing the relationship between hunger and gambling
+#' An overnight fast was examined along and the number of spins on slot machines were quantified
+#'
+#' @format ## 'ghrelin'
+#' A data frame with 91 rows and 13 columns
+#' \describe{
+#'     \item{Eatingcond}{Eating condition Fasted|Fed}
+#'     \item{CueCondition}{Gambling cues control|casino environment}
+#'     \item{Spins}{Number of spins following 25 practice spins}
+#'     \item{Smarties}{Number of smarties consumed}
+#'     \item{IOWA}
+#'     \item{Sample1}{Blood sample after breakfast or fast}
+#'     \item{Sample2}{Blood sample after cue condition}
+#'     \item{Sample3}{Blood sample 20 min after cue}
+#'     \item{Sample4}{Final blood sample after questionnaire and slot game}
+#'     \item{Sex}{male = 0 | female = 1}
+#'     \item{PGSItot}{Problem gambling severity index score}
+#'     \item{PGSIcat}{PGSI categori 0 = non-problem gambler, 1 = Low-risk gambler, 3 = Moderate risk gambler, 4 = Problem Gambler}
+#'     \item{Hunger}{Scores of hunger}
+#'     }
+#' @usage data(ghrelindat)
+#' @source <https://doi.org/10.1016/j.biopsycho.2018.10.011>
+#'
+"ghrelindat"
