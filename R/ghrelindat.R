@@ -10,7 +10,7 @@
 #'     \item{CueCondition}{Gambling cues control|casino environment}
 #'     \item{Spins}{Number of spins following 25 practice spins}
 #'     \item{Smarties}{Number of smarties consumed}
-#'     \item{IOWA}
+#'     \item{IOWA}{Craving to gamble}
 #'     \item{Sample1}{Blood sample after breakfast or fast}
 #'     \item{Sample2}{Blood sample after cue condition}
 #'     \item{Sample3}{Blood sample 20 min after cue}
